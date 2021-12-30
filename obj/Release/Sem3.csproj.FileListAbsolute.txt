@@ -1,0 +1,10 @@
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\bin\Release\Sem3.exe.config
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\bin\Release\Sem3.exe
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\bin\Release\Sem3.pdb
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\obj\Release\Sem3.csproj.AssemblyReference.cache
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\obj\Release\Sem3.ProgramForm.resources
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\obj\Release\Sem3.Properties.Resources.resources
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\obj\Release\Sem3.csproj.GenerateResource.cache
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\obj\Release\Sem3.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\obj\Release\Sem3.exe
+D:\GoogleDrive\vu\vu\курс-2\Курсовые\Sem3\obj\Release\Sem3.pdb
